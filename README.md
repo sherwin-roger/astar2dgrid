@@ -27,8 +27,8 @@ Pass all the values to the GirdProblem, and print the solution path.
 ## PROGRAM
 
 ```
-Name: Jayashree Rao V
-Reg. No: 212220230023
+Name: Sherwin Roger R.D
+Reg. No: 212220230046
 ```
 
 ```python
